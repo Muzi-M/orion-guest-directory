@@ -1,0 +1,180 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  min-height: 100vh;
+}
+
+.background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* White overlay for readability */
+}
+
+.logo {
+  width: 150px;
+}
+
+h2 {
+  color: #14345c;
+}
+
+.list-group-item {
+  border: 1px solid #14345c;
+  color: #14345c;
+  margin-bottom: 15px;
+  font-size: 0.9rem;
+}
+
+.list-group-item:hover {
+  background-color: #14345c;
+  color: #ffffff;
+}
+
+.banner {
+  background-color: #14345c;
+  width: 100%;
+  padding: 50px 0;
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.banner a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #fff;
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.banner h2 {
+  text-align: center;
+  margin: 0;
+  color: #fff;
+  font-size: 22px;
+}
+
+.whatsapp-float {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  bottom: 40px;
+  right: 40px;
+  z-index: 100;
+}
+
+.whatsapp-float img {
+  width: 100%;
+  height: 100%;
+}
+
+.welcome-message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+  padding: 0 20px;
+}
+
+.map-image {
+  margin-top: 40px;
+  border-radius: 5px;
+}
+
+.map-image h4 {
+  color: #14345c;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.map-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.food-menu h3 {
+  color: #14345c;
+  margin-top: 30px;
+}
+
+.food-menu h4 {
+  color: #14345c;
+  margin-top: 20px;
+}
+
+.list-group-item {
+  border: 1px solid #14345c;
+  color: #14345c;
+  margin-bottom: 10px;
+}
+
+.list-group-item .badge {
+  background-color: #fcbc44;
+  color: #14345c;
+}
+
+.content-section {
+  padding: 20px;
+}
+
+.content-section h4 {
+  color: #14345c;
+  margin-bottom: 20px;
+}
+
+.content-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.content-section ul li {
+  border: 1px solid #14345c;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+}
+
+.content-section ul li i {
+  margin-right: 10px;
+  color: #14345c;
+}
