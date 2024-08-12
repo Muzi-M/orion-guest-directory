@@ -495,6 +495,7 @@ const hotelData = {
     </ul>
   `,
     mapImage: "",
+    backgroundImage: "images/Magoebaskloof.JPG",
     whatsappNumber: "+27694311488",
     menu: {
       salads: [
@@ -613,7 +614,7 @@ const hotelData = {
     </ul>
   `,
     mapImage: "",
-    backgroundImage: "images/Magoebaskloof.jpg",
+    backgroundImage: "images/venue.jpg",
     whatsappNumber: "+27692236840",
     menu: {
       salads: [
