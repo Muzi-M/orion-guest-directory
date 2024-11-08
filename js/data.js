@@ -140,87 +140,10 @@ const hotelData = {
     backgroundImage: "images/Safari.jpg",
     whatsappNumber: "+27788559033",
     menuImages: [
-      "menus/Venue/Venue 1.png",
-      "menus/Venue/Venue 2.png",
-      "menus/Venue/Venue 3.png",
+      "menus/Safari/Safari 1.png",
+      "menus/Safari/Safari 2.png",
+      "menus/Safari/Safari 3.png",
     ],
-    menu: {
-      salads: [
-        { name: "Authentic Greek Salad", price: "R 95" },
-        { name: "Cajun Style Chicken Salad", price: "R 130" },
-        { name: "Beef Salad", price: "R 135" },
-      ],
-      starters: [
-        { name: "Peri-Peri Chicken Livers", price: "R 80" },
-        { name: "Tender Fish Fingers", price: "R 70" },
-        { name: "Vegetable Home-made Samoosas", price: "R 80" },
-      ],
-      grills: [
-        { name: "Crispy Chicken Wing Basket", price: "R 120" },
-        { name: "Grilled Rump Steak", price: "R 225" },
-        { name: "T-Bone Steak", price: "R 210" },
-      ],
-      burgers: [
-        { name: "Chicken Burger", price: "R 138" },
-        { name: "Beef Burger", price: "R 140" },
-        { name: "Cheese Burger", price: "R 160" },
-      ],
-      lightMeals: [
-        { name: "Lasagne", price: "R 145" },
-        { name: "Carbonara", price: "R 149" },
-      ],
-      platters: [
-        { name: "Social Platter for 2", price: "R 490" },
-        { name: "Seafood Platter for 2", price: "R 510" },
-      ],
-      desserts: [
-        { name: "Freshly Baked Waffle", price: "R 85" },
-        { name: "Cake of the Day", price: "R 85" },
-        { name: "Chocolate Mousse", price: "R 105" },
-      ],
-      beverages: {
-        wines: [
-          { name: "JC Le Roux La Chanson", price: "R 231" },
-          { name: "JC Le Roux La Fleurette", price: "R 231" },
-          { name: "JC Le Roux Brut", price: "R 231" },
-          { name: "Boschendal Brut", price: "R 505" },
-          { name: "Boschendal Brut Rosé", price: "R 505" },
-          // Add other wines
-        ],
-        beers: [
-          { name: "Hansa", price: "R 29" },
-          { name: "Castle Lager", price: "R 29" },
-          { name: "Castle Lite", price: "R 35" },
-          { name: "Windhoek Lager", price: "R 39" },
-          { name: "Windhoek Draught", price: "R 46" },
-          // Add other beers
-        ],
-        ciders: [
-          { name: "Hunters Dry", price: "R 41" },
-          { name: "Hunters Gold", price: "R 41" },
-          { name: "Hunters Extreme", price: "R 47" },
-          { name: "Savanna Light", price: "R 47" },
-          { name: "Savanna Dry", price: "R 47" },
-          // Add other ciders
-        ],
-        spirits: [
-          { name: "Hennessy V.S.O.P", price: "R 90" },
-          { name: "Courvoisier V.S.O.P", price: "R 84" },
-          { name: "Remy Martin V.S.O.P", price: "R 95" },
-          { name: "KWV 3 years", price: "R 19" },
-          { name: "KWV 5 years", price: "R 25" },
-          // Add other spirits
-        ],
-        softDrinks: [
-          { name: "Soda Water", price: "R 26" },
-          { name: "Dry Lemon", price: "R 26" },
-          { name: "Lemonade", price: "R 26" },
-          { name: "Tonic Water", price: "R 26" },
-          { name: "Tonic Water Zero Sugar", price: "R 26" },
-          // Add other soft drinks
-        ],
-      },
-    },
   },
 
   "coach-house": {
@@ -521,71 +444,5 @@ const hotelData = {
     mapImage: "images/20241107_Guest Directory Mont Aux Sources_approved.png",
     backgroundImage: "images/Ditholo.jpg",
     whatsappNumber: "+27724206602",
-    menu: {
-      salads: [
-        { name: "Ditholo Special Caprese Bug Salad", price: "R 135" },
-        { name: "Ditholo Biltong Salad with a Twist", price: "R 135" },
-        { name: "Authentic Greek Salad", price: "R 85" },
-      ],
-      starters: [],
-      grills: [
-        { name: "Basil Chicken Supreme", price: "R 165" },
-        { name: "Fish & Chips", price: "R 180" },
-        { name: "Marinated Venison Backstrap", price: "R 165" },
-      ],
-      burgers: [
-        { name: "Beef Burger", price: "R 140" },
-        { name: "Chicken Burger", price: "R 145" },
-        { name: "Ditholo Burger", price: "R 160" },
-      ],
-      lightMeals: [],
-      platters: [{ name: "Snack Platter", price: "R 239" }],
-      desserts: [
-        { name: "Freshly Baked Waffle", price: "R 85" },
-        { name: "Cake of the Day", price: "R 85" },
-        { name: "Strawberry Cheesecake", price: "R 85" },
-      ],
-      beverages: {
-        wines: [
-          { name: "JC Le Roux Sauvignon Blanc", price: "R 270" },
-          { name: "JC Le Roux La Fleurette", price: "R 270" },
-          { name: "JC Le Roux La Chanson", price: "R 270" },
-          { name: "Krone Cap Classique Cuvee Brut", price: "R 585" },
-          { name: "Krone Cap Classique Rosé Brut", price: "R 585" },
-          // Add other wines
-        ],
-        beers: [
-          { name: "Hansa", price: "R 29" },
-          { name: "Castle Lager", price: "R 33" },
-          { name: "Castle Lite", price: "R 34" },
-          { name: "Castle Stout", price: "R 37" },
-          // Add other beers
-        ],
-        ciders: [
-          { name: "Hunters Dry", price: "R 45" },
-          { name: "Hunters Gold", price: "R 45" },
-          { name: "Hunters Extreme Energy", price: "R 53" },
-          { name: "Savanna Light", price: "R 54" },
-          { name: "Savanna Dry", price: "R 54" },
-          // Add other ciders
-        ],
-        spirits: [
-          { name: "Hennessy V.S.O.P", price: "R 85" },
-          { name: "Courvoisier V.S.O.P", price: "R 95" },
-          { name: "Remy Martin V.S.O.P", price: "R 85" },
-          { name: "KWV 3 years", price: "R 20" },
-          { name: "KWV 5 years", price: "R 27" },
-          // Add other spirits
-        ],
-        softDrinks: [
-          { name: "Soda Water", price: "R 23" },
-          { name: "Dry Lemon", price: "R 23" },
-          { name: "Lemonade", price: "R 23" },
-          { name: "Tonic Water", price: "R 23" },
-          { name: "Tonic Water Zero Sugar", price: "R 23" },
-          // Add other soft drinks
-        ],
-      },
-    },
   },
 };
