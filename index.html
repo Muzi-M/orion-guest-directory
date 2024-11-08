@@ -31,12 +31,16 @@
           class="list-group-item list-group-item-action"
           >WELCOME TO <span id="hotel-name-link">Ditholo Game Lodge</span></a
         >
+
+        <!-- Link to trigger the gallery -->
         <a
-          href="food-drinks.html?hotel=ditholo-game-lodge"
+          href="#"
           id="food-drinks-link"
           class="list-group-item list-group-item-action"
+          onclick="showMenuPopup(); return false;"
           >FOOD & DRINKS</a
         >
+
         <a
           href="hotel-rooms-amenities.html?hotel=ditholo-game-lodge"
           id="rooms-amenities-link"
@@ -67,6 +71,15 @@
         </a>
       </div>
     </div>
+
+    <!-- Popup Overlay for Image Gallery -->
+    <div id="imagePopup" class="popup-overlay" onclick="closePopup()">
+      <span class="close-popup" onclick="closePopup()">×</span>
+      <img id="popupImage" class="popup-image" />
+      <button class="prev-btn" onclick="showPrev(event)">&#10094;</button>
+      <button class="next-btn" onclick="showNext(event)">&#10095;</button>
+    </div>
+
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
     <script src="js/data.js"></script>

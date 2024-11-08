@@ -144,6 +144,37 @@ h2 {
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 
+/* Navigation button styles */
+/* Styling for Previous and Next Buttons */
+.prev-btn,
+.next-btn {
+  position: absolute;
+  top: 50%;
+  font-size: 2rem; /* Size of the arrow */
+  font-weight: bold;
+  color: #c9b26c; /* Set to a visible color, like the primary color */
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transform: translateY(-50%);
+  z-index: 10;
+  transition: color 0.3s; /* Smooth transition on hover */
+}
+
+.prev-btn {
+  left: 10px; /* Position the left arrow */
+}
+
+.next-btn {
+  right: 10px; /* Position the right arrow */
+}
+
+/* Hover effect for better visibility */
+.prev-btn:hover,
+.next-btn:hover {
+  color: #b19f5c; /* Darker shade for visibility on hover */
+}
+
 /* Close button styling */
 .close-popup {
   position: absolute;
