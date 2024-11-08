@@ -65,7 +65,7 @@ const hotelData = {
           <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
       </ul>
     `,
-    mapImage: "images/ditholo-map.png",
+    mapImage: "images/20241107_Guest Directory Ditholo_approved.png",
     backgroundImage: "images/Ditholo.jpg",
     whatsappNumber: "+27724206602",
     menu: {
@@ -197,7 +197,7 @@ const hotelData = {
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
-    mapImage: "",
+    mapImage: "images/20241107_Guest Directory Safari_approved.png",
     backgroundImage: "images/Safari.jpg",
     whatsappNumber: "+27788559033",
     menu: {
@@ -348,7 +348,7 @@ const hotelData = {
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
-    mapImage: "",
+    mapImage: "images/20241107_Guest Directory Coach House_approved.png",
     backgroundImage: "images/coach-house.jpg",
     whatsappNumber: "+27785721921",
     menu: {
@@ -494,7 +494,7 @@ const hotelData = {
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
-    mapImage: "",
+    mapImage: "images/20241107_Guest Directory Magoebaskloof_approved.png",
     backgroundImage: "images/Magoebaskloof.JPG",
     whatsappNumber: "+27694311488",
     menu: {
@@ -613,7 +613,7 @@ const hotelData = {
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
-    mapImage: "",
+    mapImage: "images/20241107_Guest Directory Venue_approved.png",
     backgroundImage: "images/venue.jpg",
     whatsappNumber: "+27692236840",
     menu: {
@@ -692,6 +692,142 @@ const hotelData = {
           { name: "Lemonade", price: "R 26" },
           { name: "Tonic Water", price: "R 26" },
           { name: "Tonic Water Zero Sugar", price: "R 26" },
+          // Add other soft drinks
+        ],
+      },
+    },
+  },
+  "mont-aux-sources": {
+    name: "MONT AUX SOURCES",
+    reviewLink:
+      "https://my-api.guestrevuapp.com/api/v1/kiosk/06a79ffba6e44e018b1779ee85e07ce5dae90f/en",
+    welcomeMessage: `Dear Guest <br> Welcome to Mont Aux Sources Drakensberg Resort, managed by Orion Hotels & Resorts. We are delighted to have you with us and are committed to making your stay a memorable and enjoyable experience. Our team is dedicated to providing exceptional service and ensuring your comfort throughout your visit. Should you require any assistance or have any special requests during your stay, please do not hesitate to reach out to any member of our team.`,
+    roomsAndAmenities: `
+      <h4>Rooms & Suites</h4>
+      <p>Our rooms are cleaned daily. Should you require extra linen or towels, please feel free to contact reception for assistance.</p>
+      <ul>
+          <li><i class="fas fa-bed"></i><strong>Standard Rooms</strong><br>Sleeps 2<br>2 Single Beds / 1 King Bed</li>
+          <li><i class="fas fa-bed"></i><strong>Deluxe Room</strong><br>Sleeps 2<br>1 King Bed / Single Beds<br>1 Bathroom</li>
+          <li><i class="fas fa-hot-tub"></i><strong>Deluxe Room – With Jacuzzi</strong><br>Sleeps 2<br>1 King Bed / 2 Single Beds<br>1 Bathroom + Jacuzzi</li>
+          <li><i class="fas fa-users"></i><strong>Family Rooms</strong><br>Sleeps 4<br>2 Rooms<br>1 / 2 Bathroom(s)</li>
+      </ul>
+      <br>
+      <h4>Amenities</h4>
+      <ul>
+          <li><i class="fas fa-wifi"></i><strong>WiFi</strong><br>Complimentary Wi-Fi is available</li>
+          <li><i class="fas fa-binoculars"></i><strong>Game Drives</strong><br>Experience the thrill of the African wilderness on our guided game drives. Spot our majestic wildlife as our expert rangers share their knowledge of the local flora and fauna.</li>
+          <li><i class="fas fa-walking"></i><strong>Bush Walks</strong><br>Immerse yourself in nature with our guided bush walks. Discover the smaller wonders of the bush and learn about the diverse ecosystem of the Waterberg region.</li>
+          <li><i class="fas fa-dove"></i><strong>Bird Watching</strong><br>Delight in the vibrant birdlife at Ditholo Game Lodge. Our prime location offers birdwatchers a chance to see a variety of species in their natural habitat.</li>
+          <li><i class="fas fa-spa"></i><strong>Ditholo Express Spa</strong><br>Experience tranquility at Ditholo Game Lodge with our serene Bakwena Express Spa. Indulge in a variety of individual treatments including full-body massages, head and neck massages, foot and ankle massages, and more.</li>
+          <li><i class="fas fa-fire"></i><strong>Boma Fires</strong><br>Enjoy traditional African cuisine under the stars around our boma fire. This unique dining experience is perfect for sharing stories and soaking up the ambiance of the bush.</li>
+          <li><i class="fas fa-utensils"></i><strong>Restaurant</strong><br>Savour a range of delicious dishes at our on-site restaurant where our chefs use the finest local ingredients to create memorable meals.</li>
+          <li><i class="fas fa-swimming-pool"></i><strong>Swimming Pool</strong><br>Take a refreshing dip in our outdoor pool set against the backdrop of the stunning African landscape. Perfect for cooling off after a day of adventure.</li>
+          <li><i class="fas fa-water"></i><strong>Plaasdam</strong><br>For a slightly different and unique experience, take a plunge in the “Plaasdam” next to our pool to enjoy cooling down with a cocktail in hand.</li>
+          <li><i class="fas fa-canoe"></i><strong>Canoeing</strong><br>Explore the waterways around the lodge with our canoeing activities. Paddle at your own pace and enjoy the serenity of the water.</li>
+          <li><i class="fas fa-hippo"></i><strong>Hippo Enclosure Close To Lodge</strong><br>Observe these majestic creatures up close in their natural habitat. Our hippo enclosure offers a safe and exciting opportunity to learn about these fascinating animals.</li>
+          <li><i class="fas fa-utensils"></i><strong>Picnics</strong><br>Arrange a delightful picnic in the bush complete with a selection of gourmet treats. Enjoy a private meal surrounded by the beauty of the African wilderness.</li>
+          <li><i class="fas fa-building"></i><strong>Indoor & Outdoor Conference & Event Facilities</strong><br>Host your next event at Ditholo Game Lodge with our versatile conference and event facilities. Whether indoors or outdoors, we offer the perfect setting for your gathering.</li>
+          <li><i class="fas fa-ice-cream"></i><strong>Mini Fridge Stocked on Request</strong><br>Enjoy the convenience of a mini fridge in your room stocked upon request with your favourite beverages and snacks.</li>
+          <li><i class="fas fa-cocktail"></i><strong>Bar</strong><br>Unwind with a drink at our well-stocked bar featuring a selection of wines, spirits, and cocktails.</li>
+          <li><i class="fas fa-binoculars"></i><strong>Lookout Deck</strong><br>Take in panoramic views of the bush and dam from our lookout deck. It's the perfect spot for wildlife spotting and capturing the beauty of the landscape.</li>
+          <li><i class="fas fa-child"></i><strong>Kiddies Activities & Bike Track</strong><br>Keep the little ones entertained with our range of kiddies activities and a dedicated bike track, ensuring fun for guests of all ages.</li>
+          <li><i class="fas fa-concierge-bell"></i><strong>Room Service</strong><br>Enjoy the comfort and convenience of our room service offering a selection of meals and drinks delivered right to your door.</li>
+      </ul>
+    `,
+    nearbyAttractions: `
+      <h4>Nearby Attractions</h4>
+      <ul>
+          <li><i class="fas fa-paw"></i><strong>De Wildt Cheetah Farm</strong><br>Visit the renowned De Wildt Cheetah Farm dedicated to the conservation of these magnificent creatures. Learn about cheetah conservation efforts and enjoy close encounters with these incredible animals.<br>Phone: 063 693 7403</li>
+          <li><i class="fas fa-golf-ball"></i><strong>Zebula Country Club</strong><br>Experience luxury and relaxation at Zebula Country Club. This premier destination offers a world-class golf course, spa treatments, and a variety of outdoor activities in a stunning setting.<br>Phone: 014 734 7700</li>
+          <li><i class="fas fa-binoculars"></i><strong>Mabula Big Five Game Viewing</strong><br>Embark on an unforgettable adventure at Mabula Game Reserve. Join guided tours for a chance to see the Big Five in their natural habitat, providing thrilling and memorable wildlife encounters.<br>Phone: 011 516 4367</li>
+          <li><i class="fas fa-elephant"></i><strong>Adventures With Elephants</strong><br>Interact with majestic elephants at Adventures With Elephants. Enjoy educational and hands-on experiences that offer a deeper understanding of these gentle giants and their conservation.<br>Phone: 014 734 7730</li>
+          <li><i class="fas fa-crocodile"></i><strong>Thaba Kwena Crocodile Farm</strong><br>Explore Thaba Kwena Crocodile Farm, the largest commercial crocodile farm in South Africa. Learn about these ancient reptiles through guided tours and witness them up close in their natural environment.<br>Phone: 073 466 7113</li>
+      </ul>
+    `,
+    houseRulesAndSafety: `
+      <h4>House Rules & Safety</h4>
+      <ul>
+          <li><i class="fas fa-clock"></i>Check-in time is at 14:00 and check-out time is at 11:00. Early check-in or late check-out may be available upon request and subject to availability.</li>
+          <li><i class="fas fa-child"></i>A maximum of 2 children under the age of 12 sharing with 2 parents are accommodated free of charge but pay for meals.</li>
+          <li><i class="fas fa-ban"></i>No Smoking in any room.</li>
+          <li><i class="fas fa-toilet"></i>Do not flush foreign objects down the toilet.</li>
+          <li><i class="fas fa-plug"></i>Please switch off all non-essential appliances when not in use.</li>
+          <li><i class="fas fa-broom"></i>Please keep the facilities clean, tidy and hygienic, as you would like to find it.</li>
+          <li><i class="fas fa-volume-mute"></i>No loud music.</li>
+          <li><i class="fas fa-key"></i>Please return keycards & remotes on departure.</li>
+          <li><i class="fas fa-tools"></i>Any damage by guest will be charged.</li>
+      </ul>
+      <h4>Safety & Security</h4>
+      <ul>
+          <li><i class="fas fa-phone"></i>Contact Numbers:<br>Hennie (General Manager) - 076 531 3587<br>Cristo (Floor Manager) - 072 420 6602</li>
+          <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
+      </ul>
+    `,
+    mapImage: "images/20241107_Guest Directory Mont Aux Sources_approved.png",
+    backgroundImage: "images/Ditholo.jpg",
+    whatsappNumber: "+27724206602",
+    menu: {
+      salads: [
+        { name: "Ditholo Special Caprese Bug Salad", price: "R 135" },
+        { name: "Ditholo Biltong Salad with a Twist", price: "R 135" },
+        { name: "Authentic Greek Salad", price: "R 85" },
+      ],
+      starters: [],
+      grills: [
+        { name: "Basil Chicken Supreme", price: "R 165" },
+        { name: "Fish & Chips", price: "R 180" },
+        { name: "Marinated Venison Backstrap", price: "R 165" },
+      ],
+      burgers: [
+        { name: "Beef Burger", price: "R 140" },
+        { name: "Chicken Burger", price: "R 145" },
+        { name: "Ditholo Burger", price: "R 160" },
+      ],
+      lightMeals: [],
+      platters: [{ name: "Snack Platter", price: "R 239" }],
+      desserts: [
+        { name: "Freshly Baked Waffle", price: "R 85" },
+        { name: "Cake of the Day", price: "R 85" },
+        { name: "Strawberry Cheesecake", price: "R 85" },
+      ],
+      beverages: {
+        wines: [
+          { name: "JC Le Roux Sauvignon Blanc", price: "R 270" },
+          { name: "JC Le Roux La Fleurette", price: "R 270" },
+          { name: "JC Le Roux La Chanson", price: "R 270" },
+          { name: "Krone Cap Classique Cuvee Brut", price: "R 585" },
+          { name: "Krone Cap Classique Rosé Brut", price: "R 585" },
+          // Add other wines
+        ],
+        beers: [
+          { name: "Hansa", price: "R 29" },
+          { name: "Castle Lager", price: "R 33" },
+          { name: "Castle Lite", price: "R 34" },
+          { name: "Castle Stout", price: "R 37" },
+          // Add other beers
+        ],
+        ciders: [
+          { name: "Hunters Dry", price: "R 45" },
+          { name: "Hunters Gold", price: "R 45" },
+          { name: "Hunters Extreme Energy", price: "R 53" },
+          { name: "Savanna Light", price: "R 54" },
+          { name: "Savanna Dry", price: "R 54" },
+          // Add other ciders
+        ],
+        spirits: [
+          { name: "Hennessy V.S.O.P", price: "R 85" },
+          { name: "Courvoisier V.S.O.P", price: "R 95" },
+          { name: "Remy Martin V.S.O.P", price: "R 85" },
+          { name: "KWV 3 years", price: "R 20" },
+          { name: "KWV 5 years", price: "R 27" },
+          // Add other spirits
+        ],
+        softDrinks: [
+          { name: "Soda Water", price: "R 23" },
+          { name: "Dry Lemon", price: "R 23" },
+          { name: "Lemonade", price: "R 23" },
+          { name: "Tonic Water", price: "R 23" },
+          { name: "Tonic Water Zero Sugar", price: "R 23" },
           // Add other soft drinks
         ],
       },
