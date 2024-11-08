@@ -13,11 +13,11 @@ $(document).ready(function () {
       "background-image",
       `url(${hotel.backgroundImage})`
     );
-
     $("#whatsapp-link").attr("href", `https://wa.me/${hotel.whatsappNumber}`);
 
     // Update the map image
-    $("#hotel-map").attr("src", hotel.mapImage);
+    const estateMap = $("#hotel-map");
+    estateMap.attr("src", hotel.mapImage);
 
     // Update the back link
     $("#back-link").attr("href", `index.html?hotel=${hotelId}`);
@@ -27,3 +27,14 @@ $(document).ready(function () {
     alert("Hotel data not found");
   }
 });
+
+// JavaScript for Popup Functionality
+function showPopup() {
+  const mapImageSrc = $("#hotel-map").attr("src");
+  $("#popupImage").attr("src", mapImageSrc);
+  $("#imagePopup").css("display", "flex");
+}
+
+function closePopup() {
+  $("#imagePopup").css("display", "none");
+}
