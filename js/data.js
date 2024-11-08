@@ -699,17 +699,16 @@ const hotelData = {
   },
   "mont-aux-sources": {
     name: "MONT AUX SOURCES",
-    reviewLink:
-      "https://my-api.guestrevuapp.com/api/v1/kiosk/06a79ffba6e44e018b1779ee85e07ce5dae90f/en",
+    reviewLink: "#",
     welcomeMessage: `Dear Guest <br> Welcome to Mont Aux Sources Drakensberg Resort, managed by Orion Hotels & Resorts. We are delighted to have you with us and are committed to making your stay a memorable and enjoyable experience. Our team is dedicated to providing exceptional service and ensuring your comfort throughout your visit. Should you require any assistance or have any special requests during your stay, please do not hesitate to reach out to any member of our team.`,
     roomsAndAmenities: `
       <h4>Rooms & Suites</h4>
       <p>Our rooms are cleaned daily. Should you require extra linen or towels, please feel free to contact reception for assistance.</p>
       <ul>
-          <li><i class="fas fa-bed"></i><strong>Standard Rooms</strong><br>Sleeps 2<br>2 Single Beds / 1 King Bed</li>
-          <li><i class="fas fa-bed"></i><strong>Deluxe Room</strong><br>Sleeps 2<br>1 King Bed / Single Beds<br>1 Bathroom</li>
-          <li><i class="fas fa-hot-tub"></i><strong>Deluxe Room – With Jacuzzi</strong><br>Sleeps 2<br>1 King Bed / 2 Single Beds<br>1 Bathroom + Jacuzzi</li>
-          <li><i class="fas fa-users"></i><strong>Family Rooms</strong><br>Sleeps 4<br>2 Rooms<br>1 / 2 Bathroom(s)</li>
+          <li><i class="fas fa-bed"></i><strong>Chalets</strong><br>Sleeps 4<br>2 King Beds<br>2 Bedrooms</li>
+          <li><i class="fas fa-bed"></i><strong>Luxury Room #110</strong><br>Sleeps 2<br>1 King Bed / Single Beds<br>1 Bathroom</li>
+          <li><i class="fas fa-hot-tub"></i><strong>Luxury Room #110</strong><br>Sleeps 2<br>1 King Bed<br>1 Bathroom</li>
+          <li><i class="fas fa-users"></i><strong>Family Rooms</strong><br>Sleeps 6<br>3 bedrooms<br>6 Single Beds</li>
       </ul>
       <br>
       <h4>Amenities</h4>
