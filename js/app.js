@@ -14,6 +14,8 @@ $(document).ready(function () {
       `url(${hotel.backgroundImage})`
     );
 
+    $("#hotel-logo").attr("src", hotel.logo);
+
     $("#whatsapp-link").attr("href", `https://wa.me/${hotel.whatsappNumber}`);
 
     // Update the links to include the hotel ID

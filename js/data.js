@@ -1,6 +1,7 @@
 const hotelData = {
   "ditholo-game-lodge": {
     name: "DITHOLO GAME LODGE",
+    logo: "logos/Ditholo-logo.png",
     reviewLink:
       "https://my-api.guestrevuapp.com/api/v1/kiosk/06a79ffba6e44e018b1779ee85e07ce5dae90f/en",
     welcomeMessage: `Dear Guest <br> Welcome to Ditholo Game Lodge, part of the Orion Hotels & Resorts family. We are delighted to have you with us and are committed to making your stay a memorable and enjoyable experience. Our team is dedicated to providing exceptional service and ensuring your comfort throughout your visit. Should you require any assistance or have any special requests during your stay, please do not hesitate to reach out to any member of our team.`,
@@ -77,6 +78,7 @@ const hotelData = {
 
   "safari-hotel": {
     name: "SAFARI HOTEL & CONVENTION CENTRE",
+    logo: "logos/Safari-logo.png",
     reviewLink:
       "https://my-api.guestrevuapp.com/api/v1/kiosk/69d42115f7d5476997a36de9babb9dace63a25/en",
     welcomeMessage:
@@ -148,6 +150,7 @@ const hotelData = {
 
   "coach-house": {
     name: "COACH HOUSE HOTEL & SPA",
+    logo: "logos/Coach-House-Logo.png",
     reviewLink:
       "https://my-api.guestrevuapp.com/api/v1/kiosk/cd896363352540c994533a9c06dee2d6a441c4/en",
     welcomeMessage:
@@ -228,6 +231,7 @@ const hotelData = {
 
   "magoebaskloof-hotel": {
     name: "MAGOEBASKLOOF HOTEL",
+    logo: "logos/Magoebaskloof-logo.png",
     reviewLink:
       "https://www.google.com/search?q=magoebaskloof+hotel&sca_esv=1c866aa5bb9857de&rlz=1C1CHBF_enZA1109ZA1109&sxsrf=ADLYWILiRWlQE6sOi5J51IBPPLVrEcD9Ig%3A1723037407557&ei=33azZuHYIbKjhbIPkqragQU&ved=0ahUKEwihxPLE_uKHAxWyUUEAHRKVNlAQ4dUDCBA&uact=5&oq=magoebaskloof+hotel&gs_lp=Egxnd3Mtd2l6LXNlcnAiE21hZ29lYmFza2xvb2YgaG90ZWwyEBAuGIAEGMcBGCcYigUYrwEyChAjGIAEGCcYigUyBBAjGCcyBBAjGCcyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIFEAAYgAQyChAAGIAEGBQYhwIyBRAAGIAEMgUQABiABDIdEC4YgAQYxwEYigUYrwEYlwUY3AQY3gQY4ATYAQFI7RZQmAZYixFwAXgAkAEAmAGhAqAB4AqqAQMyLTW4AQPIAQD4AQGYAgagAoQLwgIHECMYsAMYJ8ICBxAAGLADGB7CAgsQABiwAxgIGB4YD8ICCxAAGIAEGLADGKIEmAMAiAYBkAYIugYGCAEQARgUkgcFMS4wLjWgB79M&sclient=gws-wiz-serp#lrd=0x1ec6baf6eb9fd4bf:0x5b7dc0bac57c7b78,3,,,,",
     welcomeMessage:
@@ -308,6 +312,7 @@ const hotelData = {
 
   "the-venue": {
     name: "THE VENUE COUNTRY HOTEL & SPA",
+    logo: "logos/The-Venue-logo.png",
     reviewLink:
       "https://my-api.guestrevuapp.com/api/v1/kiosk/8af25e11c87b478ea6c9780464d7e416ad980f/en",
     welcomeMessage:
@@ -378,6 +383,7 @@ const hotelData = {
 
   "mont-aux-sources": {
     name: "MONT AUX SOURCES",
+    logo: "logos/MAS-logo.png",
     reviewLink: "#",
     welcomeMessage: `Dear Guest <br> Welcome to Mont Aux Sources Drakensberg Resort, managed by Orion Hotels & Resorts. We are delighted to have you with us and are committed to making your stay a memorable and enjoyable experience. Our team is dedicated to providing exceptional service and ensuring your comfort throughout your visit. Should you require any assistance or have any special requests during your stay, please do not hesitate to reach out to any member of our team.`,
     roomsAndAmenities: `
