@@ -61,7 +61,7 @@ const hotelData = {
       </ul>
       <h4>Safety & Security</h4>
       <ul>
-          <li><i class="fas fa-phone"></i>Contact Numbers:<br>Hennie (General Manager) - 076 531 3587<br>Cristo (Floor Manager) - 072 420 6602</li>
+          <li><i class="fas fa-phone"></i>Contact Number:<br>Cristo (Floor Manager) - +27 72 420 6602</li>
           <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
       </ul>
     `,
@@ -132,7 +132,7 @@ const hotelData = {
     </ul>
     <h4>Safety & Security</h4>
     <ul>
-        <li><i class="fas fa-phone"></i>Contact Numbers:<br>014 597 9000<br>078 855 9033</li>
+        <li><i class="fas fa-phone"></i>Contact Numbers:<br>Jerod (General Manager) - +27 82 806 3696<br>Antonius (Deputy General Manager) - +27 82 319 3287</li>
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
@@ -212,7 +212,7 @@ const hotelData = {
     </ul>
     <h4>Safety & Security</h4>
     <ul>
-        <li><i class="fas fa-phone"></i>Contact Numbers:<br>015 590 1198<br>078 572 1921</li>
+        <li><i class="fas fa-phone"></i>Contact Numbers:<br>Petro (General Manager) - +27 67 769 4420</li>
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
@@ -292,7 +292,7 @@ const hotelData = {
     </ul>
     <h4>Safety & Security</h4>
     <ul>
-        <li><i class="fas fa-phone"></i>Contact Numbers:<br>Hennie (General Manager) - 076 531 3587<br>Cristo (Floor Manager) - 072 420 6602</li>
+        <li><i class="fas fa-phone"></i>Contact Number:<br>Roolien (General Manager) - +27 72 537 5577</li>
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
@@ -362,7 +362,7 @@ const hotelData = {
     </ul>
     <h4>Safety & Security</h4>
     <ul>
-        <li><i class="fas fa-phone"></i>Contact Numbers:<br>Petro Pearce (General Manager) - 067 769 4420<br>Anthony (Duty Manager) - 063 141 0209</li>
+        <li><i class="fas fa-phone"></i>Contact Number:<br>Traci (General Manager) - +27 67 178 6093</li>
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
@@ -443,7 +443,7 @@ const hotelData = {
       </ul>
       <h4>Safety & Security</h4>
       <ul>
-          <li><i class="fas fa-phone"></i>Reception:<br>Head Office - +27 60 139 6895</li>
+          <li><i class="fas fa-phone"></i>Contact Number:<br>Len  (General Manager) - +27 82 260 4404</li>
           <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
       </ul>
     `,
