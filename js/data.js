@@ -386,40 +386,46 @@ const hotelData = {
       <ul>
           <li><i class="fas fa-bed"></i><strong>Chalets</strong><br>Sleeps 4<br>2 King Beds<br>2 Bedrooms</li>
           <li><i class="fas fa-bed"></i><strong>Luxury Room #110</strong><br>Sleeps 2<br>1 King Bed / Single Beds<br>1 Bathroom</li>
-          <li><i class="fas fa-hot-tub"></i><strong>Luxury Room #110</strong><br>Sleeps 2<br>1 King Bed<br>1 Bathroom</li>
-          <li><i class="fas fa-users"></i><strong>Family Rooms</strong><br>Sleeps 6<br>3 bedrooms<br>6 Single Beds</li>
+          <li><i class="fas fa-hot-tub"></i><strong>Backpackers</strong><br>Sleeps 6<br>1 Bedroom<br>6 Single Beds</li>
+          <li><i class="fas fa-users"></i><strong>Family Rooms</strong><br>Sleeps 6<br>1 Bedroom<br>6 Single Beds</li>
       </ul>
       <br>
       <h4>Amenities</h4>
       <ul>
           <li><i class="fas fa-wifi"></i><strong>WiFi</strong><br>Complimentary Wi-Fi is available</li>
-          <li><i class="fas fa-binoculars"></i><strong>Game Drives</strong><br>Experience the thrill of the African wilderness on our guided game drives. Spot our majestic wildlife as our expert rangers share their knowledge of the local flora and fauna.</li>
-          <li><i class="fas fa-walking"></i><strong>Bush Walks</strong><br>Immerse yourself in nature with our guided bush walks. Discover the smaller wonders of the bush and learn about the diverse ecosystem of the Waterberg region.</li>
-          <li><i class="fas fa-dove"></i><strong>Bird Watching</strong><br>Delight in the vibrant birdlife at Ditholo Game Lodge. Our prime location offers birdwatchers a chance to see a variety of species in their natural habitat.</li>
-          <li><i class="fas fa-spa"></i><strong>Ditholo Express Spa</strong><br>Experience tranquility at Ditholo Game Lodge with our serene Bakwena Express Spa. Indulge in a variety of individual treatments including full-body massages, head and neck massages, foot and ankle massages, and more.</li>
-          <li><i class="fas fa-fire"></i><strong>Boma Fires</strong><br>Enjoy traditional African cuisine under the stars around our boma fire. This unique dining experience is perfect for sharing stories and soaking up the ambiance of the bush.</li>
-          <li><i class="fas fa-utensils"></i><strong>Restaurant</strong><br>Savour a range of delicious dishes at our on-site restaurant where our chefs use the finest local ingredients to create memorable meals.</li>
-          <li><i class="fas fa-swimming-pool"></i><strong>Swimming Pool</strong><br>Take a refreshing dip in our outdoor pool set against the backdrop of the stunning African landscape. Perfect for cooling off after a day of adventure.</li>
-          <li><i class="fas fa-water"></i><strong>Plaasdam</strong><br>For a slightly different and unique experience, take a plunge in the “Plaasdam” next to our pool to enjoy cooling down with a cocktail in hand.</li>
-          <li><i class="fas fa-canoe"></i><strong>Canoeing</strong><br>Explore the waterways around the lodge with our canoeing activities. Paddle at your own pace and enjoy the serenity of the water.</li>
-          <li><i class="fas fa-hippo"></i><strong>Hippo Enclosure Close To Lodge</strong><br>Observe these majestic creatures up close in their natural habitat. Our hippo enclosure offers a safe and exciting opportunity to learn about these fascinating animals.</li>
-          <li><i class="fas fa-utensils"></i><strong>Picnics</strong><br>Arrange a delightful picnic in the bush complete with a selection of gourmet treats. Enjoy a private meal surrounded by the beauty of the African wilderness.</li>
-          <li><i class="fas fa-building"></i><strong>Indoor & Outdoor Conference & Event Facilities</strong><br>Host your next event at Ditholo Game Lodge with our versatile conference and event facilities. Whether indoors or outdoors, we offer the perfect setting for your gathering.</li>
-          <li><i class="fas fa-ice-cream"></i><strong>Mini Fridge Stocked on Request</strong><br>Enjoy the convenience of a mini fridge in your room stocked upon request with your favourite beverages and snacks.</li>
-          <li><i class="fas fa-cocktail"></i><strong>Bar</strong><br>Unwind with a drink at our well-stocked bar featuring a selection of wines, spirits, and cocktails.</li>
-          <li><i class="fas fa-binoculars"></i><strong>Lookout Deck</strong><br>Take in panoramic views of the bush and dam from our lookout deck. It's the perfect spot for wildlife spotting and capturing the beauty of the landscape.</li>
-          <li><i class="fas fa-child"></i><strong>Kiddies Activities & Bike Track</strong><br>Keep the little ones entertained with our range of kiddies activities and a dedicated bike track, ensuring fun for guests of all ages.</li>
+          <li><i class="fas fa-mountain"></i><strong>Mountain Hiking Trails</strong><br>Explore scenic mountain hiking trails and experience the beauty of nature up close.</li>
+          <li><i class="fas fa-biking"></i><strong>Mountain Biking Trails</strong><br>Enjoy thrilling mountain biking trails for adventure enthusiasts.</li>
+          <li><i class="fas fa-table-tennis"></i><strong>Tennis</strong><br>Engage in a game of tennis on our well-maintained courts.</li>
+          <li><i class="fas fa-swimming-pool"></i><strong>Swimming Pool</strong><br>Take a refreshing dip in our outdoor pool set against the backdrop of the stunning Drakensberg landscape.</li>
+          <li><i class="fas fa-gamepad"></i><strong>Games Room</strong><br>Our games room offers a variety of entertainment options for all ages.</li>
+          <li><i class="fas fa-child"></i><strong>Activity Centre</strong><br>A dedicated space with activities for guests of all ages.</li>
+          <li><i class="fas fa-dove"></i><strong>Bird Watching</strong><br>Delight in the vibrant birdlife. Our prime location offers birdwatchers a chance to see a variety of species in their natural habitat.</li>
+          <li><i class="fas fa-utensils"></i><strong>Restaurant</strong><br>Savour a range of delicious dishes at our on-site Amphitheatre restaurant where our chefs use the finest local ingredients to create memorable meals.</li>
+          <li><i class="fas fa-cocktail"></i><strong>Pool Bar</strong><br>Relax and enjoy refreshing drinks by the pool at our poolside bar.</li>
+          <li><i class="fas fa-wine-glass"></i><strong>Indoor Bar</strong><br>Unwind with a drink at our well-stocked indoor bar featuring a selection of wines, spirits, and cocktails.</li>
+          <li><i class="fas fa-water"></i><strong>River Activities and Tubing</strong><br>Engage in exciting river activities and tubing for a fun-filled experience.</li>
+          <li><i class="fas fa-utensils"></i><strong>Communal Backpackers Kitchen</strong><br>For our backpacker guests, a fully equipped communal kitchen is available.</li>
+          <li><i class="fas fa-home"></i><strong>Chalets with Fully Equipped Kitchen</strong><br>Enjoy the comfort of self-catering chalets, each equipped with a full kitchen.</li>
           <li><i class="fas fa-concierge-bell"></i><strong>Room Service</strong><br>Enjoy the comfort and convenience of our room service offering a selection of meals and drinks delivered right to your door.</li>
+          <li><i class="fas fa-child"></i><strong>Kiddies Activities</strong><br>Keep the little ones entertained with our range of kiddies activities, ensuring fun for guests of all ages.</li>
+          <li><i class="fas fa-horse"></i><strong>Horse Riding</strong><br>Enjoy scenic rides on horseback through the beautiful surroundings.</li>
       </ul>
     `,
     nearbyAttractions: `
       <h4>Nearby Attractions</h4>
       <ul>
-          <li><i class="fas fa-paw"></i><strong>De Wildt Cheetah Farm</strong><br>Visit the renowned De Wildt Cheetah Farm dedicated to the conservation of these magnificent creatures. Learn about cheetah conservation efforts and enjoy close encounters with these incredible animals.<br>Phone: 063 693 7403</li>
-          <li><i class="fas fa-golf-ball"></i><strong>Zebula Country Club</strong><br>Experience luxury and relaxation at Zebula Country Club. This premier destination offers a world-class golf course, spa treatments, and a variety of outdoor activities in a stunning setting.<br>Phone: 014 734 7700</li>
-          <li><i class="fas fa-binoculars"></i><strong>Mabula Big Five Game Viewing</strong><br>Embark on an unforgettable adventure at Mabula Game Reserve. Join guided tours for a chance to see the Big Five in their natural habitat, providing thrilling and memorable wildlife encounters.<br>Phone: 011 516 4367</li>
-          <li><i class="fas fa-elephant"></i><strong>Adventures With Elephants</strong><br>Interact with majestic elephants at Adventures With Elephants. Enjoy educational and hands-on experiences that offer a deeper understanding of these gentle giants and their conservation.<br>Phone: 014 734 7730</li>
-          <li><i class="fas fa-crocodile"></i><strong>Thaba Kwena Crocodile Farm</strong><br>Explore Thaba Kwena Crocodile Farm, the largest commercial crocodile farm in South Africa. Learn about these ancient reptiles through guided tours and witness them up close in their natural environment.<br>Phone: 073 466 7113</li>
+      <li><i class="fas fa-tree"></i><strong>Royal Natal National Park</strong><br>
+          Explore the breathtaking beauty of the Royal Natal National Park, home to lush landscapes, hiking trails, and stunning views. A haven for nature lovers.<br>
+          Phone: 036 438 6310
+      </li>
+      <li><i class="fas fa-water"></i><strong>Tugela Waterfall</strong><br>
+          Visit the majestic Tugela Waterfall, one of the highest waterfalls in the world. Marvel at the cascading waters and enjoy the awe-inspiring surroundings.<br>
+          Phone: 021 424 1037
+      </li>
+      <li><i class="fas fa-bicycle"></i><strong>All Out Adventures</strong><br>
+          For adrenaline junkies, All Out Adventures offers a variety of thrilling activities including zip-lining, quad biking, and more in a picturesque mountain setting.<br>
+          Phone: 079 417 4989
+      </li>
       </ul>
     `,
     houseRulesAndSafety: `
@@ -437,12 +443,13 @@ const hotelData = {
       </ul>
       <h4>Safety & Security</h4>
       <ul>
-          <li><i class="fas fa-phone"></i>Contact Numbers:<br>Hennie (General Manager) - 076 531 3587<br>Cristo (Floor Manager) - 072 420 6602</li>
+          <li><i class="fas fa-phone"></i>Reception:<br>Head Office - +27 60 139 6895</li>
           <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
       </ul>
     `,
     mapImage: "images/20241107_Guest Directory Mont Aux Sources_approved.png",
-    backgroundImage: "images/Ditholo.jpg",
-    whatsappNumber: "+27724206602",
+    backgroundImage: "images/mas.jpg",
+    whatsappNumber: "+27601396895",
+    menuImages: ["menus/MAS/MAS 1.png", "menus/MAS/MAS 2.png"],
   },
 };
