@@ -7,7 +7,7 @@ $(document).ready(function () {
 
   if (hotel) {
     // Update the hotel name
-    $("#hotel-name").text(`${hotel.name} GUEST DIRECTORY`);
+    $("#hotel-name").text(hotel.name);
     $("#hotel-name-link").text(hotel.name);
     $(".background-container").css(
       "background-image",
@@ -15,6 +15,7 @@ $(document).ready(function () {
     );
 
     $("#hotel-logo").attr("src", hotel.logo);
+    $("#hotel-page-link").attr("href", hotel.hotelPage);
 
     $("#whatsapp-link").attr("href", `https://wa.me/${hotel.whatsappNumber}`);
 
