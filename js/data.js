@@ -258,17 +258,19 @@ const hotelData = {
       <li><i class="fas fa-concierge-bell"></i><strong>Room Service</strong><br>Enjoy the comfort and convenience of our room service offering a selection of meals and drinks delivered right to your door.</li>
       <li><i class="fas fa-ice-cream"></i><strong>Mini Bar fridge</strong><br>Enjoy the convenience of a mini fridge in your room stocked upon request with your favourite beverages and snacks.</li>
       <li><i class="fas fa-utensils"></i><strong>Restaurant</strong><br>Savour a range of delicious dishes at our on-site restaurant where our chefs use the finest local ingredients to create memorable meals.</li>
-      <li><i class="fas fa-cocktail"></i><strong>Bar/Lounge</strong><br>Unwind with a drink at our well-stocked John Buchan bar featuring a selection of wines, spirits, and cocktails.</li>
+      <li><i class="fas fa-cocktail"></i><strong>Bar/Lounge</strong><br>Unwind with a drink at our well-stocked Phoenix & Fireman bar featuring a selection of wines, spirits, and cocktails.</li>
       <li><i class="fas fa-wheelchair"></i><strong>Disabled Access</strong></li>
-      <li><i class="fas fa-spa"></i><strong>Spa</strong><br>Relax and unwind at our Agatha Spa where you can explore a range of rejuvenating treatments tailored just for you.</li>
-      <li><i class="fas fa-tv"></i><strong>TV</strong><br>All rooms at Coach House are equipped with OpenView television sets for your entertainment.</li>
-      <li><i class="fas fa-smoking-ban"></i><strong>Non-Smoking Rooms</strong><br>At Coach House all our rooms are non-smoking for your comfort. For the convenience of our guests who smoke we have designated smoking areas.</li>
-      <li><i class="fas fa-briefcase"></i><strong>Meeting Rooms</strong><br>At Coach House Hotel and Spa we cater to our business travelers with top-notch meeting rooms. Our facilities are equipped with everything you need for a productive session ensuring a seamless experience.</li>
-      <li><i class="fas fa-water"></i><strong>Plaasdam</strong><br>For a slightly different and unique experience take a plunge in the “Plaasdam” next to our pool to enjoy cooling down with a cocktail in hand.</li>
-      <li><i class="fas fa-coffee"></i><strong>Coffee Room Service In The Morning</strong></li>
+      <li><i class="fas fa-spa"></i><strong>Spa</strong><br>Relax and unwind at our Spa where you can explore a range of rejuvenating treatments tailored just for you.</li>
+      <li><i class="fas fa-tv"></i><strong>TV</strong><br>All rooms at Magoebaskloof Hotel are equipped with OpenView television sets for your entertainment.</li>
+      <li><i class="fas fa-smoking-ban"></i><strong>Non-Smoking Rooms</strong><br>At Magoebaskloof Hotel, all our rooms are non-smoking for your comfort. For the convenience of our guests who smoke we have designated smoking areas.</li>
+      <li><i class="fas fa-briefcase"></i><strong>Meeting Rooms</strong><br>At Magoebaskloof Hotel and Spa we cater to our business travelers with top-notch meeting rooms. Our facilities are equipped with everything you need for a productive session ensuring a seamless experience.</li
+      <li><i class="fas fa-coffee"></i><strong>Coffee Lounge</strong><br>Sip on a fresh cup of coffee at the Misty Mountain Coffee Lounge</li>
       <li><i class="fas fa-child"></i><strong>Kiddies Activities</strong><br>Keep the little ones entertained with our range of kiddie’s activities</li>
-      <li><i class="fas fa-hiking"></i><strong>Walking & Hiking Trails</strong><br>Take the edge off and enjoy the great outdoors on our scenic walking and hiking trails at Coach House Hotel and Spa.</li>
-      <li><i class="fas fa-conference"></i><strong>Indoor and Outdoor Events & Conference Facilities</strong><br>Host your next event at Coach House Hotel and Spa with our versatile conference and event facilities. Whether indoors or outdoors we offer the perfect setting for your gathering.</li>
+      <li><i class="fas fa-hiking"></i><strong>Walking & Hiking Trails</strong><br>Take the edge off and enjoy the great outdoors on our scenic waterfall hiking trail. It's the perfect picnic spot.</li>
+      <li><i class="fas fa-conference"></i><strong>Indoor and Outdoor Events & Conference Facilities</strong><br>Host your next event at Magoebaskloof Hotel with our versatile conference and event facilities. Whether indoors or outdoors we offer the perfect setting for your gathering.</li>
+      <li><i class="fas fa-beer"></i><strong>Red Postbox Pub</strong><br>End off the day with a refreshing cold beer at the historic Red Postbox Pub.</li>
+      <li><i class="fas fa-table-tennis"></i><strong>Squash Courts</strong><br>Put on your game face and enjoy a game of squash.</li>
+
     </ul>
   `,
     nearbyAttractions: `
@@ -390,7 +392,8 @@ const hotelData = {
     name: "MONT AUX SOURCES",
     logo: "logos/MAS-logo.png",
     hotelPage: "https://montauxsources.co.za",
-    reviewLink: "#",
+    reviewLink:
+      "https://my-api.guestrevuapp.com/api/v1/kiosk/50b50c34f73e463e933180e3df963d2ec3de6e/en",
     welcomeMessage: `Dear Guest <br> Welcome to Mont Aux Sources Drakensberg Resort, managed by Orion Hotels & Resorts. We are delighted to have you with us and are committed to making your stay a memorable and enjoyable experience. Our team is dedicated to providing exceptional service and ensuring your comfort throughout your visit. Should you require any assistance or have any special requests during your stay, please do not hesitate to reach out to any member of our team.`,
     roomsAndAmenities: `
       <h4>Rooms & Suites</h4>
