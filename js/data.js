@@ -464,7 +464,7 @@ const hotelData = {
     `,
     mapImage: "images/20241107_Guest Directory Mont Aux Sources_approved.png",
     backgroundImage: "images/mas.jpg",
-    whatsappNumber: "+27601396895",
+    whatsappNumber: "+27369400820",
     menuImages: ["menus/MAS/MAS 1.png", "menus/MAS/MAS 2.png"],
   },
 };

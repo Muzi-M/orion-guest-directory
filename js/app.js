@@ -14,10 +14,18 @@ $(document).ready(function () {
       `url(${hotel.backgroundImage})`
     );
 
+    if (hotel.name === "MONT AUX SOURCES") {
+      $("#rooms-amenities-link").text("ROOMS & ACTIVITY CENTRE");
+      $("#image-icon").attr("src", "images/phone-icon.png");
+      $("#whatsapp-link").attr("href", `tel:${hotel.whatsappNumber}`);
+    } else {
+      $("#rooms-amenities-link").text("ROOMS & AMENITIES");
+      $("#image-icon").attr("src", "images/whatsapp-icon.png");
+      $("#whatsapp-link").attr("href", `https://wa.me/${hotel.whatsappNumber}`);
+    }
+
     $("#hotel-logo").attr("src", hotel.logo);
     $("#hotel-page-link").attr("href", hotel.hotelPage);
-
-    $("#whatsapp-link").attr("href", `https://wa.me/${hotel.whatsappNumber}`);
 
     // Update the links to include the hotel ID
     $("#welcome-link").attr("href", `welcome.html?hotel=${hotelId}`);
