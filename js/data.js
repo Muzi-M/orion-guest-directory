@@ -465,6 +465,11 @@ const hotelData = {
     mapImage: "images/20241107_Guest Directory Mont Aux Sources_approved.png",
     backgroundImage: "images/mas.jpg",
     whatsappNumber: "+27369400820",
-    menuImages: ["menus/MAS/MAS 1.png", "menus/MAS/MAS 2.png"],
+    menuImages: [
+      "menus/MAS/MAS 1.png",
+      "menus/MAS/MAS 2.png",
+      "menus/MAS/MAS 3.png",
+      "menus/MAS/MAS 4.png",
+    ],
   },
 };
