@@ -374,7 +374,7 @@ const hotelData = {
     </ul>
     <h4>Safety & Security</h4>
     <ul>
-        <li><i class="fas fa-phone"></i>Contact Number:<br>Traci (General Manager) - +27 67 178 6093</li>
+        <li><i class="fas fa-phone"></i>Contact Number:<br>Heila (General Manager) - +27 83 462 6298</li>
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
