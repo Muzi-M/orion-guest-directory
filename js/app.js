@@ -16,8 +16,6 @@ $(document).ready(function () {
 
     if (hotel.name === "MONT AUX SOURCES") {
       $("#rooms-amenities-link").text("ROOMS & ACTIVITY CENTRE");
-      $("#image-icon").attr("src", "images/phone-icon.png");
-      $("#whatsapp-link").attr("href", `tel:${hotel.whatsappNumber}`);
     } else {
       $("#rooms-amenities-link").text("ROOMS & AMENITIES");
       $("#image-icon").attr("src", "images/whatsapp-icon.png");
