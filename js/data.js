@@ -459,13 +459,13 @@ const hotelData = {
       </ul>
       <h4>Safety & Security</h4>
       <ul>
-          <li><i class="fas fa-phone"></i>Contact Number:<br>Len  (General Manager) - +27 82 260 4404</li>
+          <li><i class="fas fa-phone"></i>Contact Number:<br>Donald  (General Manager) - +27 71 974 3732</li>
           <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
       </ul>
     `,
     mapImage: "images/20241107_Guest Directory Mont Aux Sources_approved.png",
     backgroundImage: "images/mas.jpg",
-    whatsappNumber: "+27369400820",
+    whatsappNumber: "+27712847146",
     menuImages: [
       "menus/MAS/MAS 1.png",
       "menus/MAS/MAS 2.png",
