@@ -222,7 +222,7 @@ const hotelData = {
         <li><i class="fas fa-fire-extinguisher"></i>All rooms have a map of emergency exits as well as a fire extinguisher.</li>
     </ul>
   `,
-    mapImage: "images/20250327_Guest _Directory_CHH 1.png",
+    mapImage: "images/Guest Directory Coach House 1.png",
     backgroundImage: "images/coach-house.jpg",
     whatsappNumber: "+27785721921",
     menuImages: [
