@@ -52,18 +52,22 @@ $(document).ready(function () {
 let currentImageIndex = 0;
 let currentMenuImages = [];
 
-// Function to show the menu popup
+// Function to show the menu popup or open PDF
 function showMenuPopup() {
   const hotelId = new URLSearchParams(window.location.search).get("hotel");
   const hotel = hotelData[hotelId];
 
-  if (hotel && hotel.menuImages && hotel.menuImages.length > 0) {
+  if (hotel && hotel.menuPdf) {
+    // Open PDF in a new tab
+    window.open(hotel.menuPdf, "_blank");
+  } else if (hotel && hotel.menuImages && hotel.menuImages.length > 0) {
+    // Fallback: show image gallery popup
     currentMenuImages = hotel.menuImages;
     currentImageIndex = 0;
     showPopupImage();
     $("#imagePopup").css("display", "flex");
   } else {
-    alert("No menu images available for this hotel.");
+    alert("No menu available for this hotel.");
   }
 }
 

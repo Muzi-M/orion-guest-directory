@@ -70,11 +70,7 @@ const hotelData = {
     mapImage: "images/20241107_Guest Directory Ditholo_approved.png",
     backgroundImage: "images/Ditholo.jpg",
     whatsappNumber: "+27724206602",
-    menuImages: [
-      "menus/Ditholo/1.png",
-      "menus/Ditholo/2.png",
-      "menus/Ditholo/3.png",
-    ],
+    menuPdf: "menus/New/11112025 Ditholo All Day.pdf",
   },
 
   "safari-hotel": {
@@ -105,6 +101,7 @@ const hotelData = {
         <li><i class="fas fa-conference"></i><strong>Variety of Large Indoor & Outdoor Conference and Events Facilities</strong><br>Our largest conferencing hotel features a range of versatile conference and event facilities, suitable for both indoor and outdoor gatherings. Equipped to accommodate events of all sizes with 9 modern indoor conference venues and expansive outdoor spaces, capable of hosting up to 500 delegates. Our venues are perfect for meetings, conferences, weddings, and other special occasions.</li>
         <li><i class="fas fa-utensils"></i><strong>Perron 8 Restaurant</strong><br>Savour a fine dining culinary journey at Perron 8 Restaurant. Our unique vintage coach restaurant blends international flavours with African culinary finesse.</li>
         <li><i class="fas fa-glass-martini-alt"></i><strong>Indoor and Outdoor Bar</strong><br>Relax and unwind at our indoor and outdoor bars. Enjoy a wide selection of beverages, including signature cocktails, fine wines, and refreshing beers, all served in a welcoming and stylish atmosphere.</li>
+        <li><i class="fas fa-briefcase"></i><strong>The Station Bar</strong><br>Whether you're hosting a business meeting, sealing an important deal, or networking in comfort, The Station Bar offers the perfect setting. Elegant interiors, refined atmosphere, exceptional food, and premium drinks — designed for business people who know exactly what they want.</li>
         <li><i class="fas fa-golf-ball"></i><strong>Mini Golf</strong><br>Challenge your friends and family to a fun game of mini-golf. Our well-designed mini-golf course provides entertainment for guests of all ages, making it a great activity for a leisurely afternoon.</li>
         <li><i class="fas fa-volleyball-ball"></i><strong>Volleyball</strong><br>Try our sand court for some next level entertainment - fun for the whole family.</li>
         <li><i class="fas fa-futbol"></i><strong>Soccer</strong><br>Put your best foot forward on our mini soccer field - you’ll need energy for this one.</li>
@@ -143,11 +140,7 @@ const hotelData = {
     mapImage: "images/20241107_Guest Directory Safari_approved.png",
     backgroundImage: "images/Safari.jpg",
     whatsappNumber: "+27788559033",
-    menuImages: [
-      "menus/Safari/Safari 1.png",
-      "menus/Safari/Safari 2.png",
-      "menus/Safari/Safari 3.png",
-    ],
+    menuPdf: "menus/New/11112025 Safari All Day.pdf",
   },
 
   "coach-house": {
@@ -225,11 +218,7 @@ const hotelData = {
     mapImage: "images/Guest Directory Coach House 1.png",
     backgroundImage: "images/coach-house.jpg",
     whatsappNumber: "+27785721921",
-    menuImages: [
-      "menus/Coach/Coach 1.png",
-      "menus/Coach/Coach 2.png",
-      "menus/Coach/Coach 3.png",
-    ],
+    menuPdf: "menus/New/11112025 CHH All Day.pdf",
   },
 
   "magoebaskloof-hotel": {
@@ -309,11 +298,7 @@ const hotelData = {
     mapImage: "images/20241107_Guest Directory Magoebaskloof_approved.png",
     backgroundImage: "images/Magoebaskloof.JPG",
     whatsappNumber: "+27694311488",
-    menuImages: [
-      "menus/Magoebaskloof/Mag 1.png",
-      "menus/Magoebaskloof/Mag 2.png",
-      "menus/Magoebaskloof/Mag 3.png",
-    ],
+    menuPdf: "menus/New/11112025 Magoebaskloof All Day.pdf",
   },
 
   "the-venue": {
@@ -382,11 +367,7 @@ const hotelData = {
     mapImage: "images/20241107_Guest Directory Venue_approved.png",
     backgroundImage: "images/venue.jpg",
     whatsappNumber: "+27692236840",
-    menuImages: [
-      "menus/Venue/Venue 1.png",
-      "menus/Venue/Venue 2.png",
-      "menus/Venue/Venue 3.png",
-    ],
+    menuPdf: "menus/New/11112025 The Terrace All Day Venue.pdf",
   },
 
   "mont-aux-sources": {
@@ -466,11 +447,6 @@ const hotelData = {
     mapImage: "images/20241107_Guest Directory Mont Aux Sources_approved.png",
     backgroundImage: "images/mas.jpg",
     whatsappNumber: "+27712847146",
-    menuImages: [
-      "menus/MAS/MAS 1.png",
-      "menus/MAS/MAS 2.png",
-      "menus/MAS/MAS 3.png",
-      "menus/MAS/MAS 4.png",
-    ],
+    menuPdf: "menus/New/11112025 Ampitheatre All Day MAS.pdf",
   },
 };
